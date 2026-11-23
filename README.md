@@ -1,1 +1,1 @@
-This repository contains the MATLAB implementation of the BBR-type scheme on fully nonlinear equation of subdiffusion type. The MATLAB code in this repository was generated using Claude Opus 5.5.
+This repository contains a MATLAB implementation of the BBR-type scheme for fully nonlinear subdiffusion equations. The MATLAB code was generated with the assistance of Claude Opus 5.5. 
